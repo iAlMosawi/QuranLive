@@ -72,6 +72,12 @@ The four obligatory sajdah positions in the Ja'fari school are marked in the tex
 - **Quran font:** [Amiri Quran](https://github.com/aliftype/amiri), SIL Open Font License 1.1.
 - **Server fallback recognizer:** Tilawi (MIT), with a model derived from NVIDIA's Arabic FastConformer (CC BY 4.0).
 
+## App Store links · روابط التطبيق
+
+- [Privacy Policy · سياسة الخصوصية](PRIVACY.md)
+- [Support · الدعم](SUPPORT.md)
+- [Marketing / About · عن التطبيق](ABOUT.md)
+
 ## Source code
 
 The source code is kept in a private repository. This repository holds the project's public description and screenshots.
